@@ -1,1 +1,21 @@
 Hii, I'm Aniket
+
+Here are the basic commands of git
+
+1.git init //use --> to create local repo
+2.git status  --> to check status
+3.git add --> to files for staging
+4.git config --global user.name "Aniket" -->set user name
+5.git config --global user.email "askmcoe@gmail.com" -->set user email
+6.git config user.name --> to get user name
+7.git log --oneline -->to check logs we did example commits
+8.git commit -m "Message" --> to do commit
+
+------------------------------------------------------------------------------------
+------------Remote Repo----------------------
+
+1.git remote add origin URL
+2.git push -u origin master -->to push
+-->here origin is shortcut assigned for remote url and master is your current branch
+3.git remote -v --> to verify that remote url is added 
+4.git remote set-url origin URL --> to update remote url
