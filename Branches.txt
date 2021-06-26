@@ -7,3 +7,12 @@ How to create a Branch
 5.git reflog -->will show deleted branches
 6.git checkout -b branch-name SHA-value
 
+-------------------------------------------------------------
+----------Merging a Branch-----------------------
+
+Types
+1.Fast-forward merge
+2.Merge commits
+
+1.git checkout master -->will checkout master branch
+2.git merge branch-name -->will merge
