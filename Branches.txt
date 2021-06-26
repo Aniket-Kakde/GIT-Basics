@@ -16,3 +16,8 @@ Types
 
 1.git checkout master -->will checkout master branch
 2.git merge branch-name -->will merge
+3.git merge --no-ff branch-name --> will not perform fast-forward merge
+---------------
+1.git checkout master
+2.git merge branch-name
+
