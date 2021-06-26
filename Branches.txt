@@ -1,0 +1,9 @@
+How to create a Branch
+
+1.git branch branch-name --> will create branch
+2.git branch --> will show all branches
+3.git checkout branch-name --> will checkout that branch or use that branch for commits
+4.git branch -d branch-name -->will delete that branch
+5.git reflog -->will show deleted branches
+6.git checkout -b branch-name SHA-value
+
